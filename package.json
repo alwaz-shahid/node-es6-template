@@ -8,7 +8,7 @@
     "start": "nodemon --exec node_modules/.bin/babel-node src/app.js"
   },
   "repository": "https://github.com/Alwaz18/node-es6-template",
-  "keywords": [],
+  "keywords": ["javascript", "node js", "es6", "babel", "nodemon"],
   "author": "Alwaz18 alwazdev@gmail.com",
   "license": "MIT",
   "bugs": {
