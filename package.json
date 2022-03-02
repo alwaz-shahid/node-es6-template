@@ -1,19 +1,16 @@
 {
-  "name": "my_package",
-  "description": "",
+  "name": "node_js",
+  "description": "template for node js, for writing es6 code on the go",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec node_modules/.bin/babel-node src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Alwaz18/my_package.git"
-  },
+  "repository": "https://github.com/Alwaz18/node-es6-template",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alwaz18 alwazdev@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Alwaz18/my_package/issues"
   },
@@ -25,5 +22,6 @@
   },
   "dependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "main": "src/app.js"
 }
