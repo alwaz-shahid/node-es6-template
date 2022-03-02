@@ -1,0 +1,1 @@
+console.log("Feel free to write \n es6 code in this file");

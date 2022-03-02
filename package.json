@@ -1,0 +1,29 @@
+{
+  "name": "my_package",
+  "description": "",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec node_modules/.bin/babel-node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alwaz18/my_package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alwaz18/my_package/issues"
+  },
+  "homepage": "https://github.com/Alwaz18/my_package",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
