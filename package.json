@@ -2,7 +2,6 @@
   "name": "my_package",
   "description": "",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec node_modules/.bin/babel-node src/app.js"
