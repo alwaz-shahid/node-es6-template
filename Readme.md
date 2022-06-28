@@ -4,6 +4,9 @@
   <ol>
     <li>Run " npm install" or " yarn "</li>
     <li>To run enter " npm run start" or " yarn start "</li>
+    <strong>
+    <li>
+    Don't forget to run npm update --save</li></strong>
   </ol>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaz18&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz18" /> </p>
 
