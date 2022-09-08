@@ -4,6 +4,19 @@
 <h1 align="center">Hi 👋, I'm Alwaz</h1>
 <h3 align="center">I'm a Full Stack developer, doing freelance.</h3>
 
+<h4 align="left">
+This is a es6 syntax enabled node js + express template ft babel.
+</h4>  
+
+## Commands
+<p>
+>- build: This command creates our ES6 codes using babel and dumps the output inside the dist directory (automatically deleted and recreated on every build). The dist directory contains the duplicate files and folder in our base directory. The only difference is that it includes codes transpiled from ES6 to ES5.
+>
+>- start: This command starts our node.js application after converting it to ES5 codes inside the dist directory.
+>
+>- dev: development-  This command starts our application using nodemon(it helps to restart our server automatically when any JavaScript file changes) and converts all ES6 codes in-memory to ES5 using babel-node. You do not want to do this in production. That is why we have the build command for more optimized performance.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaz18&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaz18" alt="alwaz18" /></a> </p>
@@ -14,20 +27,6 @@
 
 - 📫 How to reach me **alwazdev@gmail.com**
 
-<p align="left">
-This is a es6 syntax enabled node js + express template ft babel.
-</p>  
-
-
-<p>
- Commands
-
->- build: This command creates our ES6 codes using babel and dumps the output inside the dist directory (automatically deleted and recreated on every build). The dist directory contains the duplicate files and folder in our base directory. The only difference is that it includes codes transpiled from ES6 to ES5.
->
->- start: This command starts our node.js application after converting it to ES5 codes inside the dist directory.
->
->- dev: development-  This command starts our application using nodemon(it helps to restart our server automatically when any JavaScript file changes) and converts all ES6 codes in-memory to ES5 using babel-node. You do not want to do this in production. That is why we have the build command for more optimized performance.
-</p>
 
 <h3 align="left">Connect with me:</h3>
 
