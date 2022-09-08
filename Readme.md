@@ -10,6 +10,7 @@ This is a es6 syntax enabled node js + express template ft babel.
 
 ## Commands
 <p>
+
 >- build: This command creates our ES6 codes using babel and dumps the output inside the dist directory (automatically deleted and recreated on every build). The dist directory contains the duplicate files and folder in our base directory. The only difference is that it includes codes transpiled from ES6 to ES5.
 >
 >- start: This command starts our node.js application after converting it to ES5 codes inside the dist directory.
