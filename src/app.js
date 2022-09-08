@@ -1,4 +1,13 @@
-import { test } from "./server/main";
+import express, { json } from 'express';
 
-console.log("Feel free to write \n es6 code in this file \t");
-test("imported function, called");
+const app = express();
+
+app.use(json())
+
+const PORT = process.env.PORT || 3000;
+
+app.get('/', async (req, res) => {
+    res.json({ status: true, message: "Our node.js app works" })
+});
+
+app.listen(PORT, () => console.log(`App listening at port ${PORT}`));
