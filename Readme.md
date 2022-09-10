@@ -34,9 +34,9 @@ Connect with me on [Instagram](https://www.instagram.com/alwazdev)
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alwaz18" alt="alwaz18" /><hr/></a> </p>
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Astro, Blockchainand and much more**
 
-- 💬 Ask me about **React, gasp, Next js, node js, blockchain and Fastapi**
+- 💬 Ask me about **React js, Next js, node js, express js, Django, Fastapi, Next Auth, MongoDB, PostgreSql and blockchain (Solidity)**
 
 - 📫 How to reach me [E-mail](alwazdev@gmail.com)
 
