@@ -9,6 +9,7 @@ This is a es6 syntax enabled node js + express template ft babel.
 </h4>  
 
 ## Commands
+
 <p>
 
 >- build: This command creates our ES6 codes using babel and dumps the output inside the dist directory (automatically deleted and recreated on every build). The dist directory contains the duplicate files and folder in our base directory. The only difference is that it includes codes transpiled from ES6 to ES5.
@@ -18,13 +19,15 @@ This is a es6 syntax enabled node js + express template ft babel.
 >- dev: development-  This command starts our application using nodemon(it helps to restart our server automatically when any JavaScript file changes) and converts all ES6 codes in-memory to ES5 using babel-node. You do not want to do this in production. That is why we have the build command for more optimized performance.
 </p>
 
-Connetnt with me on [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
+<hr/>
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
 
 
-Connetnt with me on [Twitter](https://twitter.com/alwazshahid)
+Connect with me on [Twitter](https://twitter.com/alwazshahid)
 
 
-Connetnt with me on [Instagram](https://www.instagram.com/alwazdev)
+Connect with me on [Instagram](https://www.instagram.com/alwazdev)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alwaz18&label=Profile%20views&color=0e75b6&style=flat" alt="Alwaz18" /> </p>
