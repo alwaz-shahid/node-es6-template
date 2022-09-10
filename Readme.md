@@ -38,7 +38,7 @@ Connect with me on [Instagram](https://www.instagram.com/alwazdev)
 
 - 💬 Ask me about **React js, Next js, node js, express js, Django, Fastapi, Next Auth, MongoDB, PostgreSql and blockchain (Solidity)**
 
-- 📫 How to reach me [E-mail](alwazdev@gmail.com)
+- 📫 How to reach me alwazdev@gmail.com
 
 <h3 align="center"> OR</h3>
 
