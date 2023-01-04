@@ -16,7 +16,7 @@ This is a es6 syntax enabled node js + express template ft babel.
 >
 >- npm install
 >
->- npm upgrade --save
+>- npm update --save
 
 </p>
 
