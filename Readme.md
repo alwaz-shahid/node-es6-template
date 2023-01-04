@@ -8,7 +8,19 @@
 This is a es6 syntax enabled node js + express template ft babel.
 </h4>  
 
-## Commands
+## Get started
+
+<p>
+
+>- git clone https://github.com/alwaz-shahid/node-es6-template
+>
+>- npm install
+>
+>- npm upgrade --save
+
+</p>
+
+# Commands
 
 <p>
 
