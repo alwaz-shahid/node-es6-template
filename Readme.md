@@ -5,7 +5,9 @@
 <h3 align="center">I'm a Full Stack developer, doing freelance.</h3>
 
 <h4 align="left">
-This is a es6 syntax enabled node js + express template ft babel.
+This is an Express js starter template, with minimal setup and ES6 enabled.
+
+Needs zero configrations to use Es6.
 </h4>  
 
 ## Get started
