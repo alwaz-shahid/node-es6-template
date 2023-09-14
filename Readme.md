@@ -1,6 +1,5 @@
 
-# NODE JS +  EXPRESS JS + ES6 SYNTAX
-
+# NODE JS +  EXPRESS JS + ES6
 <h1 align="center">Hi 👋, I'm Alwaz</h1>
 <h3 align="center">I'm a Full Stack developer, doing freelance.</h3>
 
